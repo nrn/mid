@@ -1,5 +1,6 @@
 { "name": "mid"
 , "version": "0.0.1"
+, "author": "Nick Niemeir <nick.niemeir@gmail.com> (http://nrn.io)"
 , "main": "mid.js"
 , "scripts": { "test": "for f in ./t/*.js; do node $f; done" }
 , "devDependencies": { "tape": "*" }
