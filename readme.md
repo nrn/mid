@@ -2,7 +2,7 @@
 
 Super simple middleware!
 
-[![browser support](http://ci.testling.com/nrn/mid.png)](http://ci.testling.com/nrn/mid)
+[![browser support](https://ci.testling.com/nrn/mid.png)](https://ci.testling.com/nrn/mid)
 
 ##mid(stack, obj)
 
